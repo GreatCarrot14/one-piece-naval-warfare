@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/one-piece-naval-warfare/static/css/main.b7cd4231.css",
-    "main.js": "/one-piece-naval-warfare/static/js/main.3369a69b.js",
+    "main.js": "/one-piece-naval-warfare/static/js/main.3523f0ad.js",
+    "static/js/787.0f8d78ff.chunk.js": "/one-piece-naval-warfare/static/js/787.0f8d78ff.chunk.js",
     "static/media/water_child.gif": "/one-piece-naval-warfare/static/media/water_child.c623263bfedd3977252b.gif",
     "static/media/start_bg_one_piece.jpg": "/one-piece-naval-warfare/static/media/start_bg_one_piece.ee0cda80bd49af9022a3.jpg",
     "static/media/Sunny_Go.jpg": "/one-piece-naval-warfare/static/media/Sunny_Go.422459ae2adc73bd32cf.jpg",
@@ -9,10 +10,11 @@
     "static/media/Marine_ship.png": "/one-piece-naval-warfare/static/media/Marine_ship.9273147f53876948b6cc.png",
     "index.html": "/one-piece-naval-warfare/index.html",
     "main.b7cd4231.css.map": "/one-piece-naval-warfare/static/css/main.b7cd4231.css.map",
-    "main.3369a69b.js.map": "/one-piece-naval-warfare/static/js/main.3369a69b.js.map"
+    "main.3523f0ad.js.map": "/one-piece-naval-warfare/static/js/main.3523f0ad.js.map",
+    "787.0f8d78ff.chunk.js.map": "/one-piece-naval-warfare/static/js/787.0f8d78ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7cd4231.css",
-    "static/js/main.3369a69b.js"
+    "static/js/main.3523f0ad.js"
   ]
 }
